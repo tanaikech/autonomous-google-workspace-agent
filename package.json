@@ -1,0 +1,21 @@
+{
+  "name": "adk-full-samples",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "web": "npx adk web src/agent.ts",
+    "a2a": "npx tsx src/a2aserver.ts"
+  },
+  "dependencies": {
+    "@google/adk": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@google/adk-devtools": "latest",
+    "@types/express": "latest",
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}
