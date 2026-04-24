@@ -15,7 +15,7 @@ This project implements a multi-agent orchestration system where specialized sub
 5.  **Summary Agent (agent4):** Synthesizes execution logs, source code, and final data into a clean, structured report.
 6.  **Senior Orchestrator:** The master agent that manages the iterative workflow, handling up to 5 retries for autonomous error correction.
 
-For a detailed technical walkthrough, please refer to the article: **[The Agentic Enterprise in Action: Empowering Autonomous AI Agents through Dynamic Tool Creation](https://medium.com/google-cloud/empowering-autonomous-ai-agents-through-dynamic-tool-creation-550683f255a4)**
+For a detailed technical walkthrough, please refer to the article: **[Empowering Autonomous AI Agents through Dynamic Tool Creation](https://medium.com/google-cloud/empowering-autonomous-ai-agents-through-dynamic-tool-creation-550683f255a4)**
 
 ---
 
